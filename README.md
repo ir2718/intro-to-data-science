@@ -1,2 +1,3 @@
 # uzop-projekt
-Testni commit
+
+Repozitorij za grupni dio projekta na predmetu Uvod u znanost o podacima.
