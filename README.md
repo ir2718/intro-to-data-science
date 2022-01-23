@@ -1,3 +1,3 @@
-# uzop-projekt
+# intro-to-data-science
 
-Repozitorij za grupni dio projekta na predmetu Uvod u znanost o podacima.
+Repository for the project in introduction to data science.
