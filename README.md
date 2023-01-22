@@ -30,7 +30,7 @@ The dataset used is the PIMA Indians dataset which can be found here: https://ww
 
 - results:
 
-| Model                                                  | Train accuracy |Test accuracy |	Test precision | Test recall |	Test F1 score | 
+| Model                                                  | Train accuracy |Dev accuracy |Dev precision | Dev recall |	Dev F1 score | 
 | ------------------------------------------------------ | -------------- |------------- |	-------------- | ----------- |	------------- | 
 | standard scaler, KNN                                   | 0.779    	    |0.760      | 0.694 	     |0.562	     | 0.618	    |
 | minmax scaler, KNN                                     | 1.000 	        |0.761      | 0.682 	     |0.587 	   | 0.627 	    |
